@@ -127,23 +127,30 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Kanekwa Zimba.
+**Student ID:** 2022065832
+**Design Theme:** A clean and modern portfolio design with a responsive layout, dark mode toggle and simple navigation. The theme focuses on usability and readability while showcasing my projects and technical skills.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other: CSS Animations and Dark Mode.
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+One of the main challenges I faced was implementing the hamburger navigation menu and ensuring it worked correctly on smaller screen sizes. Initially, the menu icon did not appear because of incorrect class naming and positioning. 
+I fixed this by correcting the class name and using CSS media queries to display the hamburger menu only on mobile screens.
+
+Another challenge was implementing the dark mode feature for the entire website. At first, only certain sections changed color. 
+I fixed this by using CSS custom properties (variables) and applying them consistently across all sections so the theme could switch between light and dark modes properly.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+Profile image placeholder and project images: Placeholder images used for demonstration purposes.
 
+Icons: Emoji icons used for the dark mode toggle.
+
+Development tools: Visual Studio Code and Google Chrome Developer Tools for testing and debugging.
 ---
 
 ## Academic Integrity
